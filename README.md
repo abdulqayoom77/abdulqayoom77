@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=abdulqayoom77&abbreviated=true)
+
 # 💫 About Me:
 🔭 I’m currently working on Building Management System<br><br>🌱 I’m currently learning Cloud Data Engineering<br><br>👯 I’m looking to collaborate on any MERN project<br><br>👨‍💻 All of my projects are available at https://abdulqayoomportfolio.netlify.app/skills<br><br>💬 Ask me about JavaScript, MERN Stack<br><br>📫 How to reach me abdulqayoomaijaz77@gmail.com<br><br>📄 Know about my experiences https://amber-simone-25.tiiny.site/<br><br>⚡ Fun fact I’m a mix of creativity and tech! I create dynamic and eyecatching website and mobile Applications. I dive deep into coding with MERN stack and Python. It’s like having both an artist’s brush and a developer’s keyboard working together.
 
